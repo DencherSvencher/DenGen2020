@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html class="client-js ve-available" lang="ru" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> DenGen вспомогательный ресурс </title>
+<body bgcolor=#000050>
+<font size="5" color="#ffffff" face="Arial">
+<style>
+span.main {
+background-color: #ff0000;
+color: #ffffff;
+}
+a.white {
+background-color: #000050;
+color: #ffffff;
+}
+span.noevidence {
+background-color: #555500;
+color: #ffffff;
+}
+div.rubr {
+background-color: #000000;
+color: #ffffff;
+}
+a.beauty {
+color:white;
+<!-- font-size:20pt -->
+}
+div.common {
+margin-left: 10%;
+}
+div.lb {
+margin-left: 25%;
+}
+div.ye {
+background-color: #000050;
+color: #ffff00;
+}
+span.e {
+background-color: #000050;
+color: #ffff00;
+}
+span.e1 {
+background-color: #000050;
+color: #ff00f0;
+}
+#Mytext {
+font-size: 100 pt;
+color: #ffffff;
+font-style: oblique;
+font-family: Arial;
+border: 1px solid white;
+margin: 10px;
+padding: 20px;
+}
+.toolbar {
+background-color: #100055;
+}
+</style>
+</head>
+<body>
+<p></p>
+Веб-приложение для сопровождения, поддержки, поощрения участников региональной
+базы данных талантливых детей и молодежи Тюменской области.
+<p></p>
+<h1> ПОЛЕЗНЫЕ РЕСУРСЫ </h1>
+<p></p>
+Профилум https://profilum.ru/test-na-professiyu
+<p></p>
+Skillfolio test http://test.skillfolio.ru
+<p></p>
+Worldskills: Билет в будущее https://bilet.worldskills.ru/
+<p></p>
+Пионер https://www.pioner72.ru/molodezhi/projects/16
+<p></p>
+Талантливые дети admtyumen.ru/ogv_ru/society/talented_children/news.htm
+<p></p>
+<table>
+<tr> <td>
+<a href="https://www.pioner72.ru/molodezhi/projects/16">
+<button style="width:400px; height:150px; font-size: 20px;" > Пионер </button>
+</a> </td>
+<td> <a href="https://admtyumen.ru/ogv_ru/society/talented_children/news.htm">
+<button style="width:400px; height:150px; font-size: 20px;" > Талантливые дети </button>
+</a> <br> </td>
+</tr><tr>
+<a href="https://bilet.worldskills.ru">
+<button style="width:400px; height:150px; font-size: 20px;" > Worldskills: Билет в будущее </button>
+</a> <br> </td><td>
+<a href="https://profilum.ru/test-na-professiyu">
+<button style="width:400px; height:150px; font-size: 20px;" > Профилум </button>
+</a> <br> </td><td>
+</tr><tr>
+<a href="http://test.skillfolio.ru">
+<button style="width:400px; height:150px; font-size: 20px;" > Skillfolio test </button>
+</a> <br> </td> <tr>
+</table>
+______________________________________________________________________________________________________
+<h1> Смотрите также </h1>
+<div class="toolbar">
+<table>
+<tr> <td>
+<a href="https://">
+<button style="width:250px; height:150px; font-size: 20px;" > События </button>
+</a> <br> </td><td>
+<a href="https://">
+<button style="width:250px; height:150px; font-size: 20px;" > Управление проектами и ростом </button>
+</a> <br> </td><td>
+<a href="https://">
+<button style="width:250px; height:150px; font-size: 20px;" > Образование </button>
+</a> <br> </td><td>
+<a href="https://">
+<button style="width:250px; height:150px; font-size: 20px;" > Профиль </button>
+</a> <br> </td> </tr>
+</table>
+</div>
+</body>
+</html>
